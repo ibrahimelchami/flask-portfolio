@@ -6,8 +6,15 @@ body {
 	margin: 0;
 }
 
+a {
+	color: inherit;
+	height: 100%;
+	width: 100%;
+	text-decoration: none;
+}
+
 header {
-	width: 688px;
+	width: 640px;
 	margin: 0 auto;
 }
 
@@ -37,17 +44,14 @@ img {max-width: 100%;}
 
 .proj-card {
 	position: relative;
-	border: 2px solid #eaeaea;
-	border-radius: 2px;
 	width: 640px;
-	padding: 20px 24px;
 	margin: 0 auto;
 }
 
 .badge-holder {
 	display: flex;
 	position: absolute;
-	right: 24px;
+	right: 0px;
 }
 
 .badge {
@@ -72,3 +76,6 @@ img {max-width: 100%;}
 .mb-40 { margin-bottom: 40px; }
 .mb-48 { margin-bottom: 48px; }
 .mb-64 { margin-bottom: 64px; }
+.mb-72 { margin-bottom: 72px; }
+.mb-80 { margin-bottom: 80px; }
+.mb-88 { margin-bottom: 88px; }

@@ -1,6 +1,7 @@
 {% macro section(project) -%}
-<a href={{ project.route }}>
-    <div class="proj-card mb-48">
+
+    <div class="proj-card mb-88">
+		<a href={{ project.route }}>
 		<div class="badge-holder">
 			{% if project.design %}
 				<div class="badge">Design</div>
@@ -12,7 +13,8 @@
 		<h2 class="mb-8">{{ project.heading }}</h2>
 		<p class="mb-16">{{ project.text }}</p>
 		<img src={{ project.bannerimg }} alt="placeholder">
+		<a/>
 	</div>
-</a>
+
 {%- endmacro %}
 
