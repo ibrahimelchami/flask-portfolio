@@ -1,0 +1,74 @@
+body {
+	color: #333;
+	background: #f8f8f8;
+	width: 90%;
+	padding: 48px 48px 0 48px;
+	margin: 0;
+}
+
+header {
+	width: 688px;
+	margin: 0 auto;
+}
+
+
+h1 {
+	font-size: 32px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	margin: 0;
+}
+
+h2 {
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	margin: 0;
+}
+
+p {
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	margin: 0;
+}
+
+img {max-width: 100%;}
+
+.proj-card {
+	position: relative;
+	border: 2px solid #eaeaea;
+	border-radius: 2px;
+	width: 640px;
+	padding: 20px 24px;
+	margin: 0 auto;
+}
+
+.badge-holder {
+	display: flex;
+	position: absolute;
+	right: 24px;
+}
+
+.badge {
+	padding: 4px 8px;
+	margin: 0 0 0 4px;
+	border-radius: 1px;
+	
+	font-family: 'Open Sans', sans-serif;
+	font-size: 11px;
+	font-weight: 400;
+	background: rgba(0,0,0,.15);
+}
+
+.blu-bg { background: #bae1ff }
+.org-bg { background: #ffdfba }
+
+.mb-4  { margin-bottom: 04px; }
+.mb-8  { margin-bottom: 08px; }
+.mb-16 { margin-bottom: 16px; }
+.mb-24 { margin-bottom: 24px; }
+.mb-32 { margin-bottom: 32px; }
+.mb-40 { margin-bottom: 40px; }
+.mb-48 { margin-bottom: 48px; }
+.mb-64 { margin-bottom: 64px; }

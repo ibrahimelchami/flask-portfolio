@@ -1,0 +1,34 @@
+[
+	{
+	'heading':"Doom",
+	'route':"/projects/doom",
+	'text':"This.",
+	'bannerimg':"static/assets/images.png",
+	'design': 1,
+	'dev': 1
+	},
+	{
+	'heading':"Sundance",
+	'route':"/projects/sundance",
+	'text':"That.",
+	'bannerimg':"static/assets/images.png",
+	'design': 1,
+	'dev': 1
+	},
+	{
+	'heading':"Richard",
+	'route':"/projects/richard",
+	'text':"This.",
+	'bannerimg':"static/assets/images.png",
+	'design': 1,
+	'dev': 1
+	},
+	{
+	'heading':"Wolf",
+	'route':"/projects/wolf",
+	'text':"That.",
+	'bannerimg':"static/assets/images.png",
+	'design': 1,
+	'dev': 1
+	},
+]
